@@ -1,5 +1,4 @@
 # Data-Analysis-Projects
-# Data Analysis Projects
 
 A collection of data analysis projects using Excel, SQL, Power BI, Python, and other tools to explore datasets, uncover insights, and support data-driven decision-making.
 
