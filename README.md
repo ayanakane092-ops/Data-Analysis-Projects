@@ -8,7 +8,6 @@ This repository contains practical data analysis projects focused on transformin
 
 The projects are designed to demonstrate practical analytical skills and the use of different tools for solving business and operational problems.
 
-
 ## Projects
 
 ### 1. Manufacturing Production Analysis Using SQL
@@ -28,8 +27,9 @@ The project focuses on:
 
 **Tools:** MySQL, SQL
 
-[View SQL Project](./Manufacturing-Production-SQL-Analysis/)
+[View SQL Project](https://github.com/ayanakane092-ops/Data-Analysis-Projects/tree/main/Manufacturing-Production-SQL-Analysis)
 
+---
 
 ### 2. Manufacturing Production Analysis & Dashboard Using Excel
 
@@ -49,20 +49,45 @@ The project focuses on:
 
 **Tools:** Microsoft Excel
 
-[View Excel Project](./Manufacturing-Production-Excel-Analysis/)
+[View Excel Project](https://github.com/ayanakane092-ops/Data-Analysis-Projects/tree/main/Manufacturing-Production-Excel-Analysis)
 
+---
+
+### 3. Manufacturing Production Analysis & Dashboard Using Power BI
+
+An interactive Power BI manufacturing analytics project using Power Query, data modeling, DAX measures, interactive slicers, and business-focused visualizations.
+
+The project focuses on:
+
+- Production target vs. actual production
+- Production achievement
+- Department performance
+- Shift performance
+- Product performance
+- Defects and defect rates
+- Quality status distribution
+- Average downtime analysis
+- Monthly production trends
+- Interactive KPI dashboard
+- Department-level filtering
+- Business-oriented insights and recommendations
+
+**Tools:** Microsoft Power BI, Power Query, DAX
+
+[View Power BI Project](https://github.com/ayanakane092-ops/Data-Analysis-Projects/tree/main/Manufacturing-Production-PowerBI-Analysis)
 
 ## Tools & Technologies
 
 - Microsoft Excel
 - MySQL
 - SQL
-- Power BI
+- Microsoft Power BI
+- Power Query
+- DAX
 - Python
 - Data Visualization
 - Data Cleaning
 - Business Analysis
-
 
 ## Skills Demonstrated
 
@@ -71,12 +96,14 @@ The project focuses on:
 - SQL Querying
 - Excel Formula Analysis
 - Pivot Table Analysis
+- Power Query Data Transformation
+- DAX Measure Development
+- Data Modeling
 - Dashboard Development
 - Data Visualization
 - Business & Operational Analysis
 - Insight Generation
 - Data-driven Reporting
-
 
 ## Repository Structure
 
@@ -90,5 +117,9 @@ Data-Analysis-Projects/
 ├── Manufacturing-Production-Excel-Analysis/
 │   ├── README.md
 │   └── Project_1_Manufacturing_Raw_Data(2).xlsx
+│
+├── Manufacturing-Production-PowerBI-Analysis/
+│   ├── README.md
+│   └── Manufacturing_Production_Analysis.pbix
 │
 └── README.md
