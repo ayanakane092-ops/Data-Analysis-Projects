@@ -125,7 +125,7 @@ The relationship is configured as a many-to-one relationship, allowing the date 
 
 ## DAX Measures
 
-Five main DAX measures were created for the dashboard.
+Six main DAX measures were created for the dashboard.
 
 ### 1. Total Actual Production
 
@@ -146,6 +146,10 @@ Calculates the total number of defects.
 ### 5. Defect Rate %
 
 Calculates defects as a percentage of actual production.
+
+### 6. Average Downtime
+
+Calculates the average downtime in hours and supports the department-level downtime analysis.
 
 These measures are used throughout the dashboard and respond dynamically to slicer selections.
 
