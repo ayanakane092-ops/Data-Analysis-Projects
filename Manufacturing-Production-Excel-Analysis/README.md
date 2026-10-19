@@ -205,6 +205,6 @@ Data-Analysis-Projects/
 │
 ├── Manufacturing-Production-Excel-Analysis/
 │   ├── README.md
-│   └── Project_1_Manufacturing_Raw_Data(2).xlsx
+│   └── manufacturing_production_analysis.xlsx
 │
 └── ...
