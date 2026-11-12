@@ -76,6 +76,28 @@ The project focuses on:
 
 [View Power BI Project](https://github.com/ayanakane092-ops/Data-Analysis-Projects/tree/main/Manufacturing-Production-PowerBI-Analysis)
 
+
+---
+
+### 4. Manufacturing Production Data Analysis Using Python
+
+A Python-based exploratory data analysis project using Pandas, NumPy, Matplotlib, and Seaborn to examine manufacturing production data and generate operational insights.
+
+The project focuses on:
+
+- Data loading, inspection, and preparation
+- Production target vs. actual production
+- Production achievement by department, shift, product, and machine
+- Defect rates and quality status analysis
+- Machine downtime and downtime intensity
+- On-time and late delivery performance
+- Material and labour cost analysis
+- Data visualizations and an executive summary
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+[View Python Project](https://github.com/ayanakane092-ops/Data-Analysis-Projects/tree/main/Manufacturing-Production-Python-Analysis)
+
 ## Tools & Technologies
 
 - Microsoft Excel
@@ -85,7 +107,14 @@ The project focuses on:
 - Power Query
 - DAX
 - Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 - Data Visualization
+- Exploratory Data Analysis (EDA)
+- Data-driven Reporting
 - Data Cleaning
 - Business Analysis
 
